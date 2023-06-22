@@ -34,7 +34,7 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
-          <source>7</source>
+          <source>7.0</source>
           <target>7.0</target>
         </configuration>
       </plugin>
